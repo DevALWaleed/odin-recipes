@@ -1,0 +1,36 @@
+* {
+    font-family: Monaco, "Lucida Console", "Courier New", monospace;
+}
+
+.homepage {
+    text-align: center;
+}
+
+.homepage h1 {
+    background-color: rgba(65, 138, 111, 0.3);
+}
+
+.homepage ul {
+  background: rgb(236, 214, 140);
+  padding: 20px;
+  list-style-type: none;
+}
+
+.recipe-title {
+    text-align: center;
+    background-color: bisque;
+}
+
+.recipe-img {
+    display: block;
+    margin: 0 auto;
+}
+
+.recipe-descreption {
+    text-align: center;
+}
+
+.home-link {
+    display: block;
+    text-align: center;
+}
